@@ -1,6 +1,6 @@
 # 🚌 Bus Ticket Booking Website 🎟️
 
-The Bus Ticket Booking Website is a simple web application that allows users to book bus tickets online. The website is built using HTML, CSS, JavaScript, and PHP, and it includes a MySQL database to store user information and bookings.
+The Bus Ticket Booking Website is a simple web application that allows users to book bus tickets online. The website is built using C#, ASP.NET, HTML, CSS, JavaScript, and PHP, and it includes a MySQL database to store user information and bookings.
 
 ## 📁 Files in the Repository
 
